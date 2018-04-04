@@ -1,8 +1,10 @@
 # j3d-input
-An archive of open source Java 3D 6DOF virtual reality input trackers, circa 2003.
+An archive of open source Java 3D 6DOF virtual reality input trackers, circa 2003.  Most
+of this code and documentation was written by me based on the InputDevice interface defined by Java 3D. 
+The original native C driver files (redbarron.c, serial.c) were written by Michael F. Deering.
 
-I've put this here only for educational and historical purposes; it's highly unlikely that
-anybody now will have access to the hardware and software environments to actually build the
+I've put this here only for educational and historical purposes; it's unlikely that
+anybody now will have access to the hardware and software requirements to actually build the
 package.  The original README file follows.
 
 # Overview
